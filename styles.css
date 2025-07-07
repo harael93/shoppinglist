@@ -1,3 +1,3 @@
-div body {display: flex;}
-.container {
-}
+body {display: flex; align-items: center; align-content: center; justify-content: center;}
+#list {height: 300px; margin: 50px}
+.container {color: black; background-color: white; display: flex; justify-content:center}
